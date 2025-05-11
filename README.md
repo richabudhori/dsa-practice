@@ -1,2 +1,17 @@
 # dsa-practice
-This repository contains all the leetcode practice questions. The difficulty level is kept easy and medium.
+
+Welcome! This repository contains my Data Structures & Algorithms practice problems on Leetcode, categorised by topic.
+
+## Topics Covered:
+- Arrays
+- Strings
+- Recursion
+- Linked List
+- Hashmaps
+
+### Difficulty Level
+- Easy
+- Medium
+
+Happy Coding :)
+
